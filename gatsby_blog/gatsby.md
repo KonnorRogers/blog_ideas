@@ -1,7 +1,8 @@
 # Purpose
 
 To provide a reusable resource for myself as well as a resource for any 
-developer to start a gatsby site, in this case, a blog
+developer to start a gatsby site, in this case, a blog, without pulling in the 
+gatsby-starter-blog project
 
 <strong>Note: </strong>I have no experience with using Gatsby or React prior to
 starting this project, so best practices may not be used.
@@ -22,6 +23,7 @@ npm --version
 ```
 
 If you don't have NodeJS installed, checkout [NodeJS Homepage](https://nodejs.org/en)
+* NodeJS comes bundled with npm
 ### Ensure you have git installed
 
 ```git
