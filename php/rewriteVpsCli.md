@@ -24,3 +24,7 @@ This will then run:
 ```bash
 npm install --global gatsby-cli solargraph etc...
 ```
+
+Testing:
+
+Testing will be done via Docker to ensure everything installs properly

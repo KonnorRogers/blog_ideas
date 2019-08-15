@@ -40,6 +40,16 @@ If you don't have git installed, check out [Installing git](https://git-scm.com/
 npm install --global gatsby-cli
 ```
 
+### Hello world
+
+```bash
+gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world
+cd hello-world
+gatsby develop
+```
+
+Navigate to <em>localhost:8000</em> to view your dev server
+
 Resources:
 [Gatsby Homepage](https://www.gatsbyjs.org/)<br>
 [Quick Start guide](https://www.gatsbyjs.org/docs/quick-start/)<br>
